@@ -11,10 +11,3 @@ To run the program, please running the following commands in the terminal:
 gcc -g --std=gnu99 -o smallsh main.c
 
 ./smallsh
-
-
-
-If you want to run the test script, you can run this command in the terminal:
-place the test script in the same directory, chmod it (chmod +x ./p3testscript) 
-
-./p3testscript > mytestresults 2>&1
